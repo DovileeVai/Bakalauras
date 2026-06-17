@@ -1,0 +1,6 @@
+paho-mqtt
+python-dotenv
+pandas
+numpy
+pyod
+scikit-learn

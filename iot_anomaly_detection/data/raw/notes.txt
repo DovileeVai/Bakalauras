@@ -1,0 +1,5 @@
+*_1.csv files are used to form a CSV file with inserted anomalies, 
+which is used to form a dataset with anomaies and derived features (USED AS A TEST DATASET FOR MODELS).
+
+*_2.csv files are used to form a CSV file with normal data,
+which is used to form a dataset with derived features (USED AS A TRAIN DATASET FOR MODELS).

@@ -1,0 +1,6 @@
+normal_dataset_2.csv is a normal dataset, after adding derived features 
+a normal_dataset_features_2.csv was formed (USED AS A TRAIN DATASET FOR MODELS).
+
+dataset_with_anomalies_1.csv is a dataset normal_dataset_1.csv with inserted anomalies.
+dataset_with_anomalies_features_1.csv was formed after adding derived features to dataset_with_anomalies_1.csv.
+dataset_with_anomalies_features_1.csv (USED AS A TEST DATASET FOR MODELS)
